@@ -20,7 +20,7 @@
 
 ---
 
-🧠 Minha linguagem preferida no momento é **C#**, e sigo firme com o ecossistema **.NET** — até que outra linguagem consiga ganhar meu coração. 😄
+🧠 Minha linguagem preferida no momento é **C#**, e sigo firme com o ecossistema **.NET** — até que outra linguagem consiga chamar a minha atenção 😄
 
 Seja bem-vindo(a) ao meu perfil! 🚀
 
