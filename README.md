@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Fernando Ewald
+# 👋 Olá! Eu sou Fernando Ewald
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (12/2018)  
 💻 Desenvolvedor **Full Stack**, com foco principal em **C#** e tecnologias do ecossistema **.NET**  
