@@ -1,4 +1,7 @@
 # 👋 Olá! Eu sou Fernando Ewald
+<img src="https://i.poweredtemplates.com/i/cl/00/510/ppt_animation_332.gif" width="300" height="200" alt="Homens Trabalhando"> 
+
+**Desculpe os transtornos estamos trabalhando para organizar isso !!
 
 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (12/2018)  
 💻 Desenvolvedor **Full Stack**, com foco principal em **C#** e tecnologias do ecossistema **.NET**  
